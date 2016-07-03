@@ -1,15 +1,19 @@
-                                    srel.py
-                        2+1D Special Relativity Toy Model
+NAME:                                    
+    
+    srel
 
-                    Originally written by Joshua Wilson
-            Currently maintained by Joshua Wilson <iam.jwilson@me.com>
+DESCRIPTION: 
 
-        Copyright 2016 Joshua Wilson <iam.jwilson@me.com>>. This software is distributed 
-        under a GNU GPL license. Please see the file LICENSE in the distribution
-        for terms of use and redistribution.
+    2+1D Special Relativity Toy Model
+
+AUTHOR:
+    Joshua Wilson (Quantumapoptosi)
+    <quantumapoptosi@gmail.com>               
+
 
 
 MOTIVATION: 
+
     This project is a 2D toy model a spaceship traveling through 2D flat space under Lorentz transformations. 
     The physics of this model is meant to show what an oberver in an inertial reference frame would see.
     Moreover, since the inertial observer (the user) is  controlling the ship, appropirate time delays are 
@@ -21,6 +25,7 @@ MOTIVATION:
     general program which would calculate trajectories in curved space as well. 
 
 REQUIREMENTS:
+
     Python 2.7, PyGame, NumPy
 
 CONTROLS: 
@@ -33,6 +38,12 @@ CONTROLS:
     D       - shoot photon (constant speed)
     F       - shoot bullet (variable speed)
     T       - remove all photons and bullets
+
+LICENSE: 
+
+    Copyright 2016 Joshua Wilson (Quantumapoptosi) <quantumapoptosi@gmail.com>. This software is distributed
+    under a GNU GPL license. Please see the file LICENSE in the distribution
+    for terms of use and redistribution.    
 
 
     
