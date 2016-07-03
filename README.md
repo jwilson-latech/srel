@@ -10,7 +10,11 @@
 
 
 MOTIVATION: 
-    This project is a 2D toy model a spaceship traveling through 2D flat space under Lorentz transformations. The physics of this model is meant to show what an oberver in an inertial reference frame would see. Moreover, since the inertial observer (the user) is  controlling the ship, appropirate time delays are calculated for the response of the ship. Lorenz transformations are also used to calculate the shape of the ship for any particular yaw and direction of motion. 
+    This project is a 2D toy model a spaceship traveling through 2D flat space under Lorentz transformations. 
+    The physics of this model is meant to show what an oberver in an inertial reference frame would see.
+    Moreover, since the inertial observer (the user) is  controlling the ship, appropirate time delays are 
+    calculated for the response of the ship. Lorenz transformations are also used to calculate the shape of the 
+    ship for any particular yaw and direction of motion. 
 
     This project is inspired by the Differential Geometry applet created by Izaak Meckler which is available at http://parametricity.com/pages/diffgeo/Main.html. This project meant as proof of concept for a more general program which would calculate trajectories in curved space as well. 
 
