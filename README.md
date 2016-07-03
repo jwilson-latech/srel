@@ -7,6 +7,7 @@ DESCRIPTION:
     2+1D Special Relativity Toy Model
 
 AUTHOR:
+
     Joshua Wilson (Quantumapoptosi)
     <quantumapoptosi@gmail.com>               
 
